@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karin\\source\\repos\\Project8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE382E84-1D7B-4E10-B1E1-212008939D31}|Project8\\Project8.vcxproj|C:\\Users\\karin\\source\\repos\\Project8\\Project8\\progect7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE382E84-1D7B-4E10-B1E1-212008939D31}|Project8\\Project8.vcxproj|solutionrelative:Project8\\progect7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "progect7.cpp",
+              "DocumentMoniker": "C:\\Users\\karin\\source\\repos\\Project8\\Project8\\progect7.cpp",
+              "RelativeDocumentMoniker": "Project8\\progect7.cpp",
+              "ToolTip": "C:\\Users\\karin\\source\\repos\\Project8\\Project8\\progect7.cpp*",
+              "RelativeToolTip": "Project8\\progect7.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T12:51:14.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
